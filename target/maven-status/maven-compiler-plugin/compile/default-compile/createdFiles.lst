@@ -1,5 +1,5 @@
-contract/dto/Airplane.class
 contract/dto/PNRIdentifier.class
+contract/dto/Airplane.class
 contract/dto/Airport.class
 contract/dto/Booking.class
 contract/dto/Ticket.class

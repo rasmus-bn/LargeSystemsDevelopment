@@ -23,15 +23,10 @@
     </properties>
 
     <distributionManagement>
-        <repository>
-            <id>central</id>
-            <name>333bdd21ebb9-releases</name>
-            <url>http://dcarl.me:8081/artifactory/libs-snapshot-local</url>
-        </repository>
         <snapshotRepository>
             <id>snapshots</id>
-            <name>333bdd21ebb9-snapshots</name>
-            <url>http://dcarl.me:8081/artifactory/libs-snapshot-local</url>
+            <name>7b58a059bf7e-snapshots</name>
+            <url>http://35.207.154.57:8081/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
